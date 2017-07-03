@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Spark/.worksheet/src"/>
+	<classpathentry kind="lib" path="SparkScalaResources/dstream-twitter_2.11-0.1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="SparkScalaResources/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="SparkScalaResources/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Spark/.worksheet/bin"/>
+</classpath>

@@ -1,0 +1,9 @@
+optimized arima: http://machinelearningmastery.com/time-series-forecast-study-python-annual-water-usage-baltimore/
+
+prophet: https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3
+
+automatic feature extraction: https://github.com/blue-yonder/tsfresh
+
+Iot: https://nbviewer.jupyter.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb
+
+LSTM: https://robromijnders.github.io/LSTM_tsc/

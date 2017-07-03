@@ -1,0 +1,2 @@
+http://mlwave.com/kaggle-ensembling-guide/
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html

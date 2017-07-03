@@ -1,0 +1,3 @@
+https://github.com/guestwalk/libffm
+https://securityintelligence.com/factorization-machines-a-new-way-of-looking-at-machine-learning/
+http://ibayer.github.io/fastFM/

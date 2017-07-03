@@ -1,0 +1,3 @@
+http://online.cambridgecoding.com/notebooks/cca_admin/deep-learning-for-complete-beginners-recognising-handwritten-digits
+http://online.cambridgecoding.com/notebooks/cca_admin/convolutional-neural-networks-with-keras
+

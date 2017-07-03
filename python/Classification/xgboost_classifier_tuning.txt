@@ -1,0 +1,3 @@
+https://www.dataiku.com/learn/guide/code/python/advanced-xgboost-tuning.html
+
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
