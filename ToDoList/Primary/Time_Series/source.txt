@@ -7,3 +7,13 @@ automatic feature extraction: https://github.com/blue-yonder/tsfresh
 Iot: https://nbviewer.jupyter.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb
 
 LSTM: https://robromijnders.github.io/LSTM_tsc/
+
+https://github.com/MaxBenChrist/awesome_time_series_in_python
+
+https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
+
+https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3
+
+https://github.com/MaxBenChrist/awesome_time_series_in_python?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_148
+
+https://www.youtube.com/watch?v=tJ-O3hk1vRw

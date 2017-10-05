@@ -154,7 +154,7 @@ Specify the learning task and the corresponding learning objective. The objectiv
  - "reg:gamma" --gamma regression with log-link. Output is a mean of gamma distribution. It might be useful, e.g., for modeling insurance claims severity, or for any outcome that might be [gamma-distributed](https://en.wikipedia.org/wiki/Gamma_distribution#Applications)
  - "reg:tweedie" --Tweedie regression with log-link. It might be useful, e.g., for modeling total loss in insurance, or for any outcome that might be [Tweedie-distributed](https://en.wikipedia.org/wiki/Tweedie_distribution#Applications).
 * base_score [ default=0.5 ]
-  - the initial prediction score of all instances, global bias
+  - the initial prediction score of all instances, global bias -- IMPORTANT for regression equal to np.mean(y_train)
   - for sufficient number of iterations, changing this value will not have too much effect.
 * eval_metric [ default according to objective ]
   - evaluation metrics for validation data, a default metric will be assigned according to objective (rmse for regression, and error for classification, mean average precision for ranking )

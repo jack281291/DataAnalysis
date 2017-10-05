@@ -1,0 +1,4 @@
+https://github.com/googlemaps/google-maps-services-python#api-keys
+
+http://geoservices.tamu.edu/Services/Geocode/
+http://www.pitneybowes.com/us/data/demographic-data.html?tab1
