@@ -1,0 +1,12 @@
+"""Report top n_top parameters settings, default n_top=3.
+
+    Args
+    ----
+    grid_scores -- output from grid or random search
+    n_top -- how many to report, of top models
+
+    Returns
+    -------
+    top_params -- [dict] top parameter settings found in
+                  search
+    """

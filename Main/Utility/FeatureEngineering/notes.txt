@@ -1,0 +1,1 @@
+try to give a number to categorical variables with a lot of values using the dataset in training, for example the number of houses sold in the different cities as a simple groupby count.
