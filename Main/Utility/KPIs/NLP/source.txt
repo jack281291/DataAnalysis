@@ -1,0 +1,1 @@
+http://hlt.isti.cnr.it/wordembeddings/
