@@ -1,2 +1,0 @@
-/home/antonio/LightGBM/lightgbm config=train.conf
-/home/antonio/LightGBM/lightgbm config=predict.conf
