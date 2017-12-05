@@ -1,0 +1,3 @@
+https://gist.github.com/sloria/7001839
+
+https://github.com/BillMills/python-package-example
