@@ -1,0 +1,2 @@
+https://datahub.packtpub.com/deep-learning/5-reasons-learn-generative-adversarial-networks-gans/
+https://github.com/soumith/ganhacks
